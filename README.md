@@ -1,5 +1,6 @@
 # TalethDoesStuff
 Hello I am Taleth and I do stuff!
+
 **contact:** *email:* `sxallum@gmail.com`
 
 ### My Projects:
