@@ -8,7 +8,7 @@ Hello I am Taleth and I do stuff!
 
 # 🏗️ My Projects:
 
-![Fire Search](https://img.shields.io/badge/Fire_Search-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=orange)
+[![Fire Search](https://img.shields.io/badge/Fire_Search-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=orange)](https://github.com/TalethDoesStuff/Fire-Search)
 
 # 💻 Tech Skills:
 
